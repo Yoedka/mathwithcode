@@ -9,7 +9,7 @@ export const id = defineConfig({
         text: 'Belajar', link: '/guide/',
       },
       {
-        text: 'Donasi', link: 'https://trakteer.id/xirf'
+        text: 'Ikuti Instagram Saya', link: 'https://instagram.com/yuda.dika_'
       }
     ],
     sidebar: sidebar(),
@@ -18,8 +18,8 @@ export const id = defineConfig({
       label: 'Di halaman ini'
     },
     editLink: {
-      pattern: 'https://github.com/xirf/mathwithcode/edit/master/docs/:path',
-      text: 'Perbaiki halaman ini di GitHub'
+      pattern: 'https://wa.me/6283822678922',
+      text: 'Jika Ada Yang Error Mohon Hubungi Saya'
     },
     footer: {
       message: 'Dirilis di bawah lisensi MIT',
