@@ -10,8 +10,8 @@ export const en = defineConfig({
         link: "/en/guide/",
       },
       {
-        text: "Donation",
-        link: "https://trakteer.id/xirf",
+        text: "Follow My Instagram",
+        link: "https://instagram.com/yuda.dika_",
       },
     ],
     sidebar: sidebar(),
@@ -21,12 +21,12 @@ export const en = defineConfig({
     },
     editLink: {
       pattern:
-        "https://github.com/xirf/mathwithcode/edit/master/docs/:path",
-      text: "Fix this page on GitHub",
+        "https://wa.me/6283822678922",
+      text: "If There Is Any Error Please Contact Me",
     },
     footer: {
       message: "Released under the MIT license",
-      copyright: "Copyright © 2024-present Andika & Contributors",
+      copyright: "Copyright © 2024-present Yoeda Dika",
     },
   },
 })
